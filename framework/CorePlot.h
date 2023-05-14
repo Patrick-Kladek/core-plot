@@ -11,8 +11,6 @@
 
 #import <Cocoa/Cocoa.h>
 
-#import <CorePlot/CPTDecimalNumberValueTransformer.h>
-
 #endif
 
 #import <CorePlot/CPTAnimation.h>
@@ -80,3 +78,4 @@
 #import <CorePlot/CPTXYAxisSet.h>
 #import <CorePlot/CPTXYGraph.h>
 #import <CorePlot/CPTXYPlotSpace.h>
+#import <CorePlot/CPTDecimalNumberValueTransformer.h>
